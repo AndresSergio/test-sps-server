@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2,
+    "name": "admin",
+    "email": "admin@spsgroup.com.br",
+    "type": "admin",
+    "password": "1234"
+  },
+  {
+    "id": 3,
+    "name": "sergio",
+    "email": "sagarcia957@gmail.com",
+    "type": "admin",
+    "password": "12345"
+  },
+  {
+    "id": 4,
+    "name": "sergio",
+    "email": "luz@gmail.com",
+    "type": "admin",
+    "password": "1234"
+  },
+  {
+    "id": 5,
+    "name": "andres",
+    "email": "and@gmail.com",
+    "type": "admin",
+    "password": "12345"
+  },
+  {
+    "id": 6,
+    "name": "clarita",
+    "email": "clari@gmail.com",
+    "type": "usuario",
+    "password": "12345"
+  },
+  {
+    "id": 7,
+    "name": "anibal",
+    "email": "anibal@gmail.com",
+    "type": "admin",
+    "password": "12345"
+  }
+]
